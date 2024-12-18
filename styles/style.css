@@ -241,6 +241,7 @@ body {
   height: 1.15;
   font-size: 60px;
   font-weight: 600;
+  position: relative;
 }
 
 .section-subtitle_theme_dark {
@@ -253,6 +254,7 @@ body {
   height: 34px;
   font-size: 24px;
   font-weight: normal;
+  position: relative;
 }
 
 .table_theme_dark {
