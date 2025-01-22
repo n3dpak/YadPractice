@@ -1,0 +1,10 @@
+.footer_author {
+    position: absolute;
+    bottom: 18px;
+    left: 0px;
+    height: 25px;
+    font-size: 18px;
+    font-weight: normal;
+    color: white;
+    cursor: default;
+}

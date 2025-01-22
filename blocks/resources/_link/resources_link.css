@@ -1,0 +1,9 @@
+.resources_link {
+    cursor: pointer;
+    opacity: 1;
+    transition: opacity linear 0.5s;
+}
+
+.resources_link:hover {
+    opacity: 0.4;
+}
