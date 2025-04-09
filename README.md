@@ -1,1 +1,3 @@
-git: https://github.com/n3dpak/YadPractice.git
+# Проектная работа Mesto
+
+студент, когорта, стэк
